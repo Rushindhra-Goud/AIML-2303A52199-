@@ -22,7 +22,7 @@
 <BR><BR>
 <BR>
 
-<H2>WEEK-6</H2>
+<H2>WEEK-6</H2>https://github.com/Rushindhra-Goud/AIML-2303A52199-/blob/main/AIML%20LAB/AIML%20LAB-6.ipynb
 <BR><BR>
 <BR>
 
