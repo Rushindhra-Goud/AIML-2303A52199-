@@ -37,3 +37,7 @@
 <H2>WEEK-9</H2>https://github.com/Rushindhra-Goud/AIML-2303A52199-/blob/main/AIML_LAB_9.ipynb
 <BR><BR>
 <BR>
+
+<H2>WEEK-10</H2>https://github.com/Rushindhra-Goud/AIML-2303A52199-/blob/main/AIML_LAB_10.ipynb
+<BR><BR>
+<BR>
