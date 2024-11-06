@@ -29,3 +29,9 @@
 <H2>WEEK-7</H2>https://github.com/Rushindhra-Goud/AIML-2303A52199-/blob/main/Lab07.ipynb
 <BR><BR>
 <BR>
+
+<H2>WEEK-8</H2>https:https://github.com/Rushindhra-Goud/AIML-2303A52199-/blob/main/AIML_LAB_8.ipynb
+<BR><BR>
+<BR>
+
+
